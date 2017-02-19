@@ -5,7 +5,7 @@
 
 static const int A_ = 65;
 
-// helper of amin funciton extract plug and rotor setup storing them in vector
+// helper of main funciton extract plug and rotor setup storing them in vector
 std::vector<int> extractSetup(char *setup) {
   using namespace std;
   ifstream input;
