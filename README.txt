@@ -1,4 +1,4 @@
-CS2 Enigma
+Enigma Machine
 ==========
 
 Sample Configuration Files and A Small Testsuite
